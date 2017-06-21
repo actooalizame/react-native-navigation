@@ -17,11 +17,12 @@ const MainScreenNavigator = TabNavigator({
 		  activeTintColor: '#0f0f0f',
 		  showIcon: true,
 		  labelStyle: {
-		    fontSize: 16,
+		    fontSize: 13,
 		  },
 		  style: {
 		    backgroundColor: 'blue',
 		  },
+		  showLabel: false
 		}
 		}
   );
